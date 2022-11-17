@@ -1,0 +1,2 @@
+# .github
+ZIMO organisation description
