@@ -4,5 +4,9 @@
 
 Below you can find a selection of ZIMO's open-source projects. Our full repository list can be found [here](https://github.com/orgs/ZIMO-Elektronik/repositories).
 
+## Libraries
+* [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20)
+* [ZTL](https://github.com/ZIMO-Elektronik/ZTL)
+
 ## Miscellaneous
 * [CMakeModules](https://github.com/ZIMO-Elektronik/CMakeModules)
