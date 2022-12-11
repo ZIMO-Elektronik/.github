@@ -17,7 +17,7 @@ ZIMO organisation description
 - [ ] Require linear history
 - [ ] Require deployments to succeed before merging
 - [ ] Lock branch
-- [X] Do not allow bypassing the above settings
+- [ ] Do not allow bypassing the above settings
 - [ ] Restrict who can push to matching branches
 - [ ] Allow force pushes
 - [ ] Allow deletions
