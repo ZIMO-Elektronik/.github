@@ -5,10 +5,15 @@
 Below you can find a selection of ZIMO's open-source projects. Our full repository list can be found [here](https://github.com/orgs/ZIMO-Elektronik/repositories).
 
 ## Libraries
-- [MDU](https://github.com/ZIMO-Elektronik/MDU)
-- [MM2](https://github.com/ZIMO-Elektronik/MM2)
-- [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20)
-- [ZTL](https://github.com/ZIMO-Elektronik/ZTL)
+| Name                                                  | Description                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| [DCC](https://github.com/ZIMO-Elektronik/DCC)         | DCC protocol library for controlling digital model railways   |
+| [MDU](https://github.com/ZIMO-Elektronik/MDU)         | MDU protocol library for firmware and ZPP updates             |
+| [MM2](https://github.com/ZIMO-Elektronik/MM2)         | MM1/2 protocol library for controlling digital model railways |
+| [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher                                                 |
+| [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | Bundles CMake modules and toolchain files                     |
 
 ## Miscellaneous
-- [CMakeModules](https://github.com/ZIMO-Elektronik/CMakeModules)
+| Name                                                            | Description                               |
+| --------------------------------------------------------------- | ----------------------------------------- |
+| [CMakeModules](https://github.com/ZIMO-Elektronik/CMakeModules) | Bundles CMake modules and toolchain files |

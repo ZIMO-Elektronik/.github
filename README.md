@@ -15,6 +15,7 @@ ZIMO organisation description
 - [X] Require conversation resolution before merging
 - [ ] Require signed commits
 - [ ] Require linear history
+- [ ] Require merge queue
 - [ ] Require deployments to succeed before merging
 - [ ] Lock branch
 - [ ] Do not allow bypassing the above settings
