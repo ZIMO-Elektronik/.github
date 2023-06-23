@@ -8,6 +8,7 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
 | Name                                                  | Description                                                   |
 | ----------------------------------------------------- | ------------------------------------------------------------- |
 | [DCC](https://github.com/ZIMO-Elektronik/DCC)         | DCC protocol library for controlling digital model railways   |
+| [DCC_EIN](https://github.com/ZIMO-Elektronik/DCC_EIN) | DCC as serial ASCII protocol                                  |
 | [MDU](https://github.com/ZIMO-Elektronik/MDU)         | MDU protocol library for firmware and ZPP updates             |
 | [MM2](https://github.com/ZIMO-Elektronik/MM2)         | MM1/2 protocol library for controlling digital model railways |
 | [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher                                                 |
