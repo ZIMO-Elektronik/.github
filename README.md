@@ -4,7 +4,7 @@ ZIMO organisation description
 ## Branch protection rules
 ### master
 - [X] Require a pull request before merging
-  - [X] Require approvals
+  - [ ] Require approvals
   - [X] Dismiss stale pull request approvals when new commits are pushed
   - [ ] Require review from Code Owners
   - [ ] Restrict who can dismiss pull request reviews
