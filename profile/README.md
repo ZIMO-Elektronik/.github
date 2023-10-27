@@ -12,6 +12,7 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
 | [MDU](https://github.com/ZIMO-Elektronik/MDU)         | MDU protocol library for firmware and ZPP updates             |
 | [MM2](https://github.com/ZIMO-Elektronik/MM2)         | MM1/2 protocol library for controlling digital model railways |
 | [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher                                                 |
+| [ZSU](https://github.com/ZIMO-Elektronik/ZSU)         | ZSU file specification                                        |
 | [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | ZIMO template library                                         |
 
 ## Miscellaneous
