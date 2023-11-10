@@ -4,15 +4,37 @@
 
 Below you can find a selection of ZIMO's open-source projects. Our full repository list can be found [here](https://github.com/orgs/ZIMO-Elektronik/repositories).
 
-## Libraries
-| Name                                                  | Description                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------- |
-| [DCC](https://github.com/ZIMO-Elektronik/DCC)         | DCC protocol library for controlling digital model railways   |
-| [DCC_EIN](https://github.com/ZIMO-Elektronik/DCC_EIN) | DCC as serial ASCII protocol                                  |
-| [MDU](https://github.com/ZIMO-Elektronik/MDU)         | MDU protocol library for ZPP and ZSU updates                  |
-| [MM2](https://github.com/ZIMO-Elektronik/MM2)         | MM1/2 protocol library for controlling digital model railways |
-| [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher                                                 |
-| [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | ZIMO template library                                         |
+<details>
+  <summary>Table of contents</summary>
+  <ol>
+    <li><a href="#communication">Communication</a></li>
+      <ul>
+        <li><a href="#serial--usb">Serial / USB</a></li>
+        <li><a href="#track">Track</a></li>
+      </ul>
+    <li><a href="#utilities">Utilities</a></li>
+    <li><a href="#miscellaneous">Miscellaneous</a></li>
+  </ol>
+</details>
+
+## Communication
+### Serial / USB
+| Name                                                  | Description                 |
+| ----------------------------------------------------- | --------------------------- |
+| [DCC_EIN](https://github.com/ZIMO-Elektronik/DCC_EIN) | DCC as serial ASCII library |
+
+### Track
+| Name                                          | Description                                          |
+| --------------------------------------------- | ---------------------------------------------------- |
+| [DCC](https://github.com/ZIMO-Elektronik/DCC) | DCC library for controlling digital model railways   |
+| [MDU](https://github.com/ZIMO-Elektronik/MDU) | MDU library for ZPP and ZSU updates                  |
+| [MM2](https://github.com/ZIMO-Elektronik/MM2) | MM1/2 library for controlling digital model railways |
+
+## Utilities
+| Name                                                  | Description           |
+| ----------------------------------------------------- | --------------------- |
+| [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher         |
+| [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | ZIMO template library |
 
 ## Miscellaneous
 | Name                                                            | Description                               |
