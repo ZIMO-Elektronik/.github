@@ -9,8 +9,8 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
   <ol>
     <li><a href="#communication">Communication</a></li>
       <ul>
-        <li><a href="#serial--usb">Serial / USB</a></li>
         <li><a href="#track">Track</a></li>
+        <li><a href="#ulf">ULF</a></li>
       </ul>
     <li><a href="#utilities">Utilities</a></li>
     <li><a href="#miscellaneous">Miscellaneous</a></li>
@@ -18,26 +18,30 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
 </details>
 
 ## Communication
-### ULF
-| Name                                                          | Description          |
-| ------------------------------------------------------------- | -------------------- |
-| [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)         | ULF communication    |
-| [ULF_DCC_EIN](https://github.com/ZIMO-Elektronik/ULF_DCC_EIN) | DCC as ASCII library |
-
 ### Track
-| Name                                          | Description                                          |
-| --------------------------------------------- | ---------------------------------------------------- |
-| [DCC](https://github.com/ZIMO-Elektronik/DCC) | DCC library for controlling digital model railways   |
-| [MDU](https://github.com/ZIMO-Elektronik/MDU) | MDU library for ZPP and ZSU updates                  |
-| [MM2](https://github.com/ZIMO-Elektronik/MM2) | MM1/2 library for controlling digital model railways |
+Libraries for communication via tracks
+| Name                                          | Description                                           |
+| --------------------------------------------- | ----------------------------------------------------- |
+| [DCC](https://github.com/ZIMO-Elektronik/DCC) | DCC protocol for controlling digital model railways   |
+| [MDU](https://github.com/ZIMO-Elektronik/MDU) | MDU protocol for ZPP and ZSU updates                  |
+| [MM2](https://github.com/ZIMO-Elektronik/MM2) | MM1/2 protocol for controlling digital model railways |
+
+### ULF
+Libraries for serial / USB communication with ULF devices
+| Name                                                          | Description           |
+| ------------------------------------------------------------- | --------------------- |
+| [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)         | ULF communication     |
+| [ULF_DCC_EIN](https://github.com/ZIMO-Elektronik/ULF_DCC_EIN) | DCC as ASCII protocol |
 
 ## Utilities
+Libraries for general use
 | Name                                                  | Description           |
 | ----------------------------------------------------- | --------------------- |
 | [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher         |
 | [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | ZIMO template library |
 
 ## Miscellaneous
+Non(ish)-code related things
 | Name                                                              | Description                               |
 | ----------------------------------------------------------------- | ----------------------------------------- |
 | [.clang-format](https://github.com/ZIMO-Elektronik/.clang-format) | .clang-format file                        |
