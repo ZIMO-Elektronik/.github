@@ -35,10 +35,11 @@ Libraries for serial / USB communication with ULF devices
 
 ## Utilities
 Libraries for general use
-| Name                                                  | Description           |
-| ----------------------------------------------------- | --------------------- |
-| [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20) | Stream cipher         |
-| [ZTL](https://github.com/ZIMO-Elektronik/ZTL)         | ZIMO template library |
+| Name                                                    | Description                                          |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| [QtBreeze](https://github.com/ZIMO-Elektronik/QtBreeze) | CMake wrapper for breeze-icons and BreezeStyleSheets |
+| [Salsa20](https://github.com/ZIMO-Elektronik/Salsa20)   | Stream cipher                                        |
+| [ZTL](https://github.com/ZIMO-Elektronik/ZTL)           | ZIMO template library                                |
 
 ## Miscellaneous
 Non(ish)-code related things
