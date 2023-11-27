@@ -43,9 +43,10 @@ Libraries for general use
 
 ## Miscellaneous
 Non(ish)-code related things
-| Name                                                              | Description                               |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [.clang-format](https://github.com/ZIMO-Elektronik/.clang-format) | .clang-format file                        |
-| [CMakeModules](https://github.com/ZIMO-Elektronik/CMakeModules)   | Bundles CMake modules and toolchain files |
-| [ZPP](https://github.com/ZIMO-Elektronik/ZPP)                     | ZPP file specification                    |
-| [ZSU](https://github.com/ZIMO-Elektronik/ZSU)                     | ZSU file specification                    |
+| Name                                                                      | Description                               |
+| ------------------------------------------------------------------------- | ----------------------------------------- |
+| [.clang-format](https://github.com/ZIMO-Elektronik/.clang-format)         | .clang-format file                        |
+| [.github-workflows](https://github.com/ZIMO-Elektronik/.github-workflows) | Bundles reusable GitHub workflows         |
+| [CMakeModules](https://github.com/ZIMO-Elektronik/CMakeModules)           | Bundles CMake modules and toolchain files |
+| [ZPP](https://github.com/ZIMO-Elektronik/ZPP)                             | ZPP file specification                    |
+| [ZSU](https://github.com/ZIMO-Elektronik/ZSU)                             | ZSU file specification                    |
