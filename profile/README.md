@@ -9,6 +9,7 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
   <ol>
     <li><a href="#communication">Communication</a></li>
       <ul>
+        <li><a href="#mx10">MX10</a></li>
         <li><a href="#track">Track</a></li>
         <li><a href="#ulf">ULF</a></li>
       </ul>
@@ -18,6 +19,12 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
 </details>
 
 ## Communication
+### MX10
+Libraries for communication with MX10 devices
+| Name                                            | Description                                    |
+| ----------------------------------------------- | ---------------------------------------------- |
+| [zcan](https://github.com/ZIMO-Elektronik/zcan) | ZCAN10/20 protocol over Ethernet or serial/CDC |
+
 ### Track
 Libraries for communication via tracks
 | Name                                              | Description                                                                                                                |
@@ -28,7 +35,7 @@ Libraries for communication via tracks
 | [MM2](https://github.com/ZIMO-Elektronik/MM2)     | MM1/2 protocol for controlling digital model railways                                                                      |
 
 ### ULF
-Libraries for serial / USB communication with ULF devices
+Libraries for serial/CDC communication with ULF devices
 | Name                                                              | Description                                                          |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)             | ULF communication                                                    |
