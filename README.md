@@ -1,2 +1,8 @@
 # .github
-The content of public README.md will appear on your organization's public profile.
+![logo_flat.svg](data/images/logo_flat.svg)
+
+![logo.jpg](data/images/logo.jpg)
+
+![logo.png](data/images/logo.png)
+
+![logo.svg](data/images/logo.svg)
