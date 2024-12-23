@@ -10,6 +10,7 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
     <li><a href="#communication">Communication</a></li>
       <ul>
         <li><a href="#mx10">MX10</a></li>
+        <li><a href="#susi">SUSI</a></li>
         <li><a href="#track">Track</a></li>
         <li><a href="#ulf">ULF</a></li>
       </ul>
@@ -25,6 +26,12 @@ Libraries for communication with MX10 devices
 | ----------------------------------------------- | ---------------------------------------------- |
 | [zcan](https://github.com/ZIMO-Elektronik/zcan) | ZCAN10/20 protocol over Ethernet or serial/CDC |
 
+### SUSI
+Libraries for communication via SUSI
+| Name                                            | Description                                                                                                                                                                                        |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ZUSI](https://github.com/ZIMO-Elektronik/ZUSI) | ZIMO specific protocol for the [SUSI](https://normen.railcommunity.de/RCN-600.pdf) bus for [ZPP](https://github.com/ZIMO-Elektronik/ZPP) and [ZSU](https://github.com/ZIMO-Elektronik/ZSU) updates |
+
 ### Track
 Libraries for communication via tracks
 | Name                                              | Description                                                                                                                |
@@ -36,11 +43,12 @@ Libraries for communication via tracks
 
 ### ULF
 Libraries for serial/CDC communication with ULF devices
-| Name                                                              | Description                                                          |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)             | ULF communication                                                    |
-| [ULF_DCC_EIN](https://github.com/ZIMO-Elektronik/ULF_DCC_EIN)     | [DCC](https://github.com/ZIMO-Elektronik/DCC) as ASCII protocol      |
-| [ULF_DECUP_EIN](https://github.com/ZIMO-Elektronik/ULF_DECUP_EIN) | [DECUP](https://github.com/ZIMO-Elektronik/DECUP) as binary protocol |
+| Name                                                              | Description                                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)             | ULF communication                                                 |
+| [ULF_DCC_EIN](https://github.com/ZIMO-Elektronik/ULF_DCC_EIN)     | [DCC](https://github.com/ZIMO-Elektronik/DCC) over serial/CDC     |
+| [ULF_DECUP_EIN](https://github.com/ZIMO-Elektronik/ULF_DECUP_EIN) | [DECUP](https://github.com/ZIMO-Elektronik/DECUP) over serial/CDC |
+| [ULF_SUSIV2](https://github.com/ZIMO-Elektronik/ULF_SUSIV2)       | [ZUSI](https://github.com/ZIMO-Elektronik/ZUSI) over serial/CDC   |
 
 ## Utilities
 Libraries for general use
