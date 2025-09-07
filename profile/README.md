@@ -13,6 +13,7 @@ Below you can find a selection of ZIMO's open-source projects. Our full reposito
         <li><a href="#susi">SUSI</a></li>
         <li><a href="#track">Track</a></li>
         <li><a href="#ulf">ULF</a></li>
+        <li><a href="#z21">Z21</a></li>
       </ul>
     <li><a href="#utilities">Utilities</a></li>
     <li><a href="#miscellaneous">Miscellaneous</a></li>
@@ -48,7 +49,14 @@ Libraries for serial/CDC communication with ULF devices
 | [ULF_COM](https://github.com/ZIMO-Elektronik/ULF_COM)             | ULF communication                                                 |
 | [ULF_DCC_EIN](https://github.com/ZIMO-Elektronik/ULF_DCC_EIN)     | [DCC](https://github.com/ZIMO-Elektronik/DCC) over serial/CDC     |
 | [ULF_DECUP_EIN](https://github.com/ZIMO-Elektronik/ULF_DECUP_EIN) | [DECUP](https://github.com/ZIMO-Elektronik/DECUP) over serial/CDC |
+| [ULF_MX1BIN](https://github.com/ZIMO-Elektronik/ULF_MX1BIN)       | MX1BIN over serial/CDC                                            |
 | [ULF_SUSIV2](https://github.com/ZIMO-Elektronik/ULF_SUSIV2)       | [ZUSI](https://github.com/ZIMO-Elektronik/ZUSI) over serial/CDC   |
+
+### Z21
+Libraries for UDP communication with [Z21](https://www.z21.eu/en) devices
+| Name                                          | Description                                                                                                                                                                                        |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Z21](https://github.com/ZIMO-Elektronik/Z21) | [Z21 protocol](https://www.z21.eu/media/Kwc_Basic_DownloadTag_Component/root-en-main_47-1652-959-downloadTag-download/default/d559b9cf/1699290380/z21-lan-protokoll-en.pdf) for open LAN interface |
 
 ## Utilities
 Libraries for general use
